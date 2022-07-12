@@ -1,5 +1,5 @@
 # COMBO - Complementing Brightness Constancy with Deep Networks for Optical Flow Prediction
-[Vincent Le Guen](https://www.linkedin.com/in/vincentleguen/),  [Nicolas Thome](http://cedric.cnam.fr/~thomen/)
+[Vincent Le Guen](https://www.linkedin.com/in/vincentleguen/), [Clément Rambour] (http://cedric.cnam.fr/~rambourc/) [Nicolas Thome](http://cedric.cnam.fr/~thomen/)
 
 Code for our ECCV 2022 paper "Complementing Brightness Constancy with Deep Networks for Optical Flow Prediction": https://arxiv.org/abs/2207.03790
 
